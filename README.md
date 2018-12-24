@@ -18,7 +18,7 @@ icingacli module enable snow
 
 * Choose theme in admin or user UI
 ![Icinga Web 2 theme Snow](https://github.com/Mikesch-mp/icingaweb2-theme-snow/raw/master/screenshots/snow_theme_system.png "Snow theme global")
-![Icinga Web 2 theme Snow](https://github.com/Mikesch-mp/icingaweb2-theme-snow/raw/master/screenshots/now_theme_user.png "Snow theme user")
+![Icinga Web 2 theme Snow](https://github.com/Mikesch-mp/icingaweb2-theme-snow/raw/master/screenshots/snow_theme_user.png "Snow theme user")
 
 ## Contribution
 
